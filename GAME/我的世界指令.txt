@@ -1,0 +1,7 @@
+
+kill 杀
+full_health 完整的健康
+creativemode 
+move 动
+summom 召唤冰元素
+注：输入T就可以输入口令
